@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: [Muhammad Zayan]
+### Student number: [47673699] 
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -39,25 +39,28 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
-### 2.2. Checkpoints
+![Acid](DocImages/AcidSB.png)
 
-### 2.3. Chompers
 
-### 2.4. Health Pickups
+### 2.2. Spikes
 
-### 2.5. Keys
+### 2.3. Checkpoints
 
-### 2.6. Moving Platforms
+### 2.4. Chompers
 
-### 2.7. Passthrough Platforms
+### 2.5. Moving Platforms
 
-### 2.8. Spikes
+### 2.6. Health Pickups
 
-### 2.9. Spitters
+### 2.7. Weapon Pickup (Staff)
 
-### 2.10. Weapon Pickup (Gun)
+### 2.8. Spitters
 
-### 2.11. Weapon Pickup (Staff)
+### 2.9. Keys
+
+### 2.10. Passthrough Platforms
+
+### 2.11. Weapon Pickup (Gun)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
