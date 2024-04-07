@@ -114,6 +114,8 @@ No additional words are necessary for this section (any words should only be wit
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
+Iterative design and playtesting helped alot as there was bits in my level where things weren't exactly how I wanted, I had made section one too difficult at first and had some impossible jumps. I fixed this through playtesting and learning what works. Adjusting blocks, spikes, and acid pits so that players don’t bump their heads into walls or ceilings, making sure there’s a smooth transition in the sections and it progressively gets harder for players. Some sections had to be reimagined with the thoughts I had in mind such as how many and where I should place my enemies and where I should introduce them.
+
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 ## Generative AI Use Acknowledgement
