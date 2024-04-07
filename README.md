@@ -71,7 +71,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.8. Spitters
 
-![This is the alt text for an image!](DocImages/SplitterSB.png)
+![This is the alt text for an image!](DocImages/SpitterSB.png)
 
 
 ### 2.9. Keys
